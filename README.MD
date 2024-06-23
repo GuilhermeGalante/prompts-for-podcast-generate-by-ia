@@ -45,6 +45,29 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 ## ✨ Como foi feito ?
 
 - Roteiro gerado via chatgpt
+Prompt utilizado: Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de investimentos focado em investimentos cujo o nome é "Patrimônio em Foco " e tem foco em investimentos,  com o público alvo de iniciantes em investimentos
+
+o formato do roteiro deve ser
+[INTRODUÇÃO]
+[CURIOSIDADE 1]
+[CURIOSIDADE 2]
+[FINALIZAÇÃO]
+
+{REGRAS}
+
+- no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal 'PrimoCast', como se fossem escritos pelo Primo Rico
+- no bloco [CURIOSIDADE 1] substitua por uma curiosidade de Investimentos
+- no bloco [CURIOSIDADE 2] sobre uma ferramenta para investir
+- no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou Guilherme e esse foi o Patrimônio em Foco dessa semana'
+- use termos de fácil explicação
+- O podcast vai ser apresentado somente por uma pessoa, chamada Guilherme
+- O podcast deve ser curto
+
+{REGRAS NEGATIVAS}
+> Não use muitos termos técnicos
+> Não ultrapasse 5 minutos de duração
+
+
 - Audio gerado pela elevenLabs
 - Midjourney Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
