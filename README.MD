@@ -65,9 +65,9 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
       align=left 
       margin=10 
       width=80 
-      src=""
+      src="https://cdn.discordapp.com/attachments/896178519489527818/1254539225974702100/image.png?ex=6679dc33&is=66788ab3&hm=87ce7cfc357a68f3821a3082c5128a34c28bbc8f427d882b2d75c56504625b05&"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspGuilherme Galante<br>
     &nbsp&nbsp&nbsp
     <a 
         href="https://github.com/GuilhermeGalante">
